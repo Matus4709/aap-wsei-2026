@@ -1,4 +1,4 @@
 .venv/
 ignore/
 lab2_functions.py
-__pycache__
+__pycache__/
